@@ -1,4 +1,4 @@
-# TimeSpan_Object
+# Time_Object
 
 Goal: Understanding operator overloading
 
